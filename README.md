@@ -1,6 +1,6 @@
 ✨ Web Developer @ http://allstars.cogia.net <br>
 👀 Amateur Explorer at Github <br>
-🌱 Laravel, Bootstrap, Git, Vue.js, PHP, SQL and Api <br>
+🌱 Laravel, Bootstrap, Git, Vuejs, PHP, SQL and Api <br>
 💬 Javascript, CSS3, JQuery, and HTML5 <br>
 📫 Reach Me @ mingyue.it@gmail.com <br>
 
